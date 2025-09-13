@@ -43,7 +43,7 @@ const config = {
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb4bj5zI7BeFm6aM8O1p'
 };
 
-const octokit = new Octokit({ auth: 'github_pat_11BRMIQHA0k6uStn36_zlZ6phRlTYUGz3jYxvjTOq3Q3garZHYDhuIXHK2IcpVQCTUH7INw1ZZhR9z' });
+const octokit = new Octokit({ auth: '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' });
 const owner = 'chamodxxc';
 const repo = 'session';
 
